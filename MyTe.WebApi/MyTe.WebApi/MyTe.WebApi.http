@@ -1,0 +1,6 @@
+@MyTe.WebApi_HostAddress = http://localhost:5081
+
+GET {{MyTe.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
